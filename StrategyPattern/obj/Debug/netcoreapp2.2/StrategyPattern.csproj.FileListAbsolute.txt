@@ -1,0 +1,11 @@
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp2.2/StrategyPattern.csprojAssemblyReference.cache
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp2.2/StrategyPattern.csproj.CoreCompileInputs.cache
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp2.2/StrategyPattern.AssemblyInfoInputs.cache
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp2.2/StrategyPattern.AssemblyInfo.cs
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp2.2/StrategyPattern.deps.json
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp2.2/StrategyPattern.runtimeconfig.json
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp2.2/StrategyPattern.runtimeconfig.dev.json
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp2.2/StrategyPattern.dll
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp2.2/StrategyPattern.pdb
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp2.2/StrategyPattern.dll
+/home/jason/projects/dotnet/DesignPatterns/StrategyPattern/obj/Debug/netcoreapp2.2/StrategyPattern.pdb
