@@ -4,6 +4,6 @@ namespace StrategyPattern.Duck
 {
     public interface IQuackBehavior
     {
-        void quack();
+        void Quack();
     }
 }

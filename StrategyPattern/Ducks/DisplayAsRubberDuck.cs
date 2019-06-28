@@ -4,7 +4,7 @@ namespace StrategyPattern.Duck
 {
     public class DisplayAsRubberDuck : IDisplayBehavior
     {
-        public void display()
+        public void Display()
         {
             Console.WriteLine("Displaying a rubber duck");
         }

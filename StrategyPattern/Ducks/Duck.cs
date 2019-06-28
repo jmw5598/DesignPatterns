@@ -18,19 +18,19 @@ namespace StrategyPattern.Duck
             this._flyBehavior = flyBehavior;
         }
 
-        public void display()
+        public void Display()
         {
-            this._displayBehavior.display();
+            this._displayBehavior.Display();
         }
 
-        public void quack()
+        public void Quack()
         {
-            this._quackBehavior.quack();
+            this._quackBehavior.Quack();
         }
 
-        public void fly() 
+        public void Fly() 
         {
-            this._flyBehavior.fly();
+            this._flyBehavior.Fly();
         }
     }
 }

@@ -4,7 +4,7 @@ namespace StrategyPattern.Duck
 {
     public class SimpleQuacking : IQuackBehavior
     {
-        public void quack()
+        public void Quack()
         {
             Console.WriteLine("Quack Quack!");
         }

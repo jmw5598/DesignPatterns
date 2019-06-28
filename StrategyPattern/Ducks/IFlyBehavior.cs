@@ -4,6 +4,6 @@ namespace StrategyPattern.Duck
 {
     public interface IFlyBehavior
     {
-        void fly();
+        void Fly();
     }
 }

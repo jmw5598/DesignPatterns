@@ -13,9 +13,9 @@ namespace StrategyPattern
                 .WithFlyBehavior(new JetFlying())
                 .Build();
 
-            fastQuietRubberDuck.display();
-            fastQuietRubberDuck.quack();
-            fastQuietRubberDuck.fly();
+            fastQuietRubberDuck.Display();
+            fastQuietRubberDuck.Quack();
+            fastQuietRubberDuck.Fly();
         }
     }
 }

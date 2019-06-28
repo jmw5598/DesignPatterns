@@ -4,6 +4,6 @@ namespace StrategyPattern.Duck
 {
     public interface IDisplayBehavior
     {
-        void display();
+        void Display();
     }
 }
